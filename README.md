@@ -1,6 +1,5 @@
-# Farcaster Transaction Frame
+# KickOfframe
 
-Farcaster Transaction Frame is an innovative application that enables users to claim NFTs directly from a Farcaster Frame. This repository contains all the necessary code and instructions to get the application up and running.
 
 ## Getting Started
 
@@ -10,7 +9,7 @@ To use the Farcaster Transaction Frame, you'll need to clone this repository, in
 
 To get started, clone the repository to your local machine:
 ```
-git clone https://github.com/thirdweb-example/farcaster-transaction-frame-youtube.git
+git clone https:
 ```
 ```
 cd farcaster-transaction-frame-youtube
@@ -64,15 +63,3 @@ Once your environment variables are set, your application is ready to go!
 
 You can test you Frame using [Farcaster's Frame Validator](https://warpcast.com/~/developers/frames)
 
-## Learn More
-
-To learn more about thirdweb and Next.js, take a look at the following resources:
-
-- [thirdweb docs Documentation](https://portal.thirdweb.com) - 
-- [thirdweb dashboard](https://thirdweb.com)
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
